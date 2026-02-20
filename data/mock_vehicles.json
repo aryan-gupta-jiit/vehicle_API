@@ -1,0 +1,47 @@
+[
+    {
+        "registration_number": "DL01AB1234",
+        "registration_date": "2018-06-15",
+        "manufacturing_date": "2018-04-01",
+        "owner_name": "Rahul Sharma",
+        "vehicle_class": "Motor Car (LMV)",
+        "fuel_type": "PETROL",
+        "manufacturer": "Maruti Suzuki",
+        "model": "Swift VXI",
+        "engine_number": "K12MN1234567",
+        "chassis_number": "MA3EJKD1S00987654",
+        "rto": "DL-01",
+        "color": "White",
+        "seating_capacity": 5
+    },
+    {
+        "registration_number": "MH12XY5678",
+        "registration_date": "2021-01-10",
+        "manufacturing_date": "2020-12-15",
+        "owner_name": "Anita Verma",
+        "vehicle_class": "Motor Car (LMV)",
+        "fuel_type": "DIESEL",
+        "manufacturer": "Hyundai",
+        "model": "Creta SX",
+        "engine_number": "D4FA1234567",
+        "chassis_number": "MALC381CLLM123456",
+        "rto": "MH-12",
+        "color": "Grey",
+        "seating_capacity": 5
+    },
+    {
+        "registration_number": "UP32CD7890",
+        "registration_date": "2014-09-22",
+        "manufacturing_date": "2014-06-10",
+        "owner_name": "Vikram Singh",
+        "vehicle_class": "Motor Car (LMV)",
+        "fuel_type": "PETROL",
+        "manufacturer": "Honda",
+        "model": "City VX",
+        "engine_number": "L15A123456",
+        "chassis_number": "MAKHZ12345H123456",
+        "rto": "UP-32",
+        "color": "Black",
+        "seating_capacity": 5
+    }
+]

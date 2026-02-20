@@ -1,0 +1,60 @@
+Real RC (Registration Certificate) typically contains:
+
+Registration number
+
+Owner name
+
+Father name
+
+Vehicle class
+
+Fuel type
+
+Manufacturer
+
+Model
+
+Engine number
+
+Chassis number
+
+Registration date
+
+Manufacturing date
+
+Fitness validity
+
+Insurance validity
+
+Pollution validity
+
+Seating capacity
+
+Color
+
+RTO code
+
+# Mock JSON Structure (Very Realistic)
+
+{
+  "status": "success",
+  "data": {
+    "registration_number": "DL01AB1234",
+    "registration_date": "2018-06-15",
+    "manufacturing_date": "2018-04-01",
+    "owner_name": "Rahul Sharma",
+    "vehicle_class": "Motor Car (LMV)",
+    "fuel_type": "PETROL",
+    "manufacturer": "Maruti Suzuki",
+    "model": "Swift VXI",
+    "engine_number": "K12MN1234567",
+    "chassis_number": "MA3EJKD1S00987654",
+    "rto": "DL-01",
+    "insurance_valid_till": "2026-06-14",
+    "fitness_valid_till": "2033-06-14",
+    "pucc_valid_till": "2025-04-01",
+    "color": "White",
+    "seating_capacity": 5,
+    "bs_norm": "BS4"
+  }
+}
